@@ -98,7 +98,7 @@ img {
 .title {
   color: #000000;
   font-size: 38px;
-  font-family: 'Playfair Display', serif;
+  
   margin: 0 0 16px 0;
   font-weight: 400;
   letter-spacing: 1px;
@@ -441,7 +441,6 @@ img {
 }
 
 .menus-title {
-  font-family: 'Playfair Display', serif;
   font-size: 64px;
   font-weight: 700;
   margin: 0;
@@ -468,7 +467,6 @@ img {
 }
 
 .menu-column-title {
-  font-family: 'Playfair Display', serif;
   font-size: 86px;
   font-weight: 700;
   line-height: 1.1;
